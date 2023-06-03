@@ -3,7 +3,7 @@ import Post from "./Post";
 import { collection, onSnapshot, orderBy, query } from "firebase/firestore";
 import { db } from "@/firebase";
 import { useRecoilState } from "recoil";
-import { searchState } from "@/atoms/modalAtom";
+import { searchState } from "@/atoms/searchAtom";
 
 function Posts() {
   const [posts, setPosts] = useState([]);

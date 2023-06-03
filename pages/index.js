@@ -5,10 +5,20 @@ import styles from "@/styles/Home.module.css";
 import Header from "@/components/Header";
 import Feed from "@/components/Feed";
 import Modal from "@/components/Modal";
+import { useSession } from "next-auth/react";
+import { useEffect } from "react";
 
 const inter = Inter({ subsets: ["latin"] });
 
 export default function Home() {
+  const { data: session } = useSession();
+
+  useEffect(() => {
+    if (!session) {
+      alert("Please Signin to access all features like post, comment, like");
+    }
+  }, []);
+
   return (
     <div className="bg-gray-50 h-screen overflow-y-scroll scrollbar-hide">
       <Head>

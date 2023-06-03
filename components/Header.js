@@ -13,9 +13,11 @@ import { HomeIcon } from "@heroicons/react/20/solid";
 import { signIn, signOut, useSession } from "next-auth/react";
 import { useRouter } from "next/router";
 import { useRecoilState } from "recoil";
-import { modalState, searchState } from "@/atoms/modalAtom";
+import { modalState } from "@/atoms/modalAtom";
 import InstagramLogo from "@/public/InstagramLogo.png";
 import InstaIcon from "@/public/InstaIcon.png";
+import { searchState } from "@/atoms/searchAtom";
+import { useEffect } from "react";
 
 function Header() {
   const { data: session } = useSession();
