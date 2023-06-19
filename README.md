@@ -13,42 +13,42 @@ Instagram Clone with NEXT.JS! (ReactJS, Post images with captions Functionality,
 ## :camera: Screenshots
 
 #### <p align="center">Instagram Home Screen before Signin</p>
-![instagram1](https://github.com/RushikeshBhavsar3605/rushikesh-bhavsar-instagram-clone/assets/129877176/e59bf82b-3028-454d-a270-51feafaa2819)
+![instagram1](https://github.com/RushikeshBhavsar3605/rushikesh-bhavsar-instagram-clone/assets/129877176/e8ae70f9-3330-42d8-a4f5-ee9baf00caca)
 
 <br>
 <br>
 
-![instagram2](https://github.com/RushikeshBhavsar3605/rushikesh-bhavsar-instagram-clone/assets/129877176/fdc9bde2-7de5-4941-9505-134d5434713d)
+![instagram2](https://github.com/RushikeshBhavsar3605/rushikesh-bhavsar-instagram-clone/assets/129877176/f8c80628-d773-4543-afca-e272f84a8a83)
 
 <hr>
 
 #### <p align="center">Instagram Signin Screen</p>
-![Instagram3](https://github.com/RushikeshBhavsar3605/rushikesh-bhavsar-instagram-clone/assets/129877176/b9028cf2-f8a7-46f0-b045-3f657e4c7f66)
+![Instagram3](https://github.com/RushikeshBhavsar3605/rushikesh-bhavsar-instagram-clone/assets/129877176/06e23b9d-757e-46a8-aadb-19431b023871)
 
 <hr>
 
 #### <p align="center">Google Login with NextAuth</p>
-![instagram4](https://github.com/RushikeshBhavsar3605/rushikesh-bhavsar-instagram-clone/assets/129877176/7ab6fb00-2322-4f27-94bb-da57334dc318)
+![instagram4](https://github.com/RushikeshBhavsar3605/rushikesh-bhavsar-instagram-clone/assets/129877176/4d2ca864-a5b6-4d3f-a649-148573113582)
 
 <hr>
 
 #### <p align="center">Instagram Home Screen After Signin</p>
-![instagram5](https://github.com/RushikeshBhavsar3605/rushikesh-bhavsar-instagram-clone/assets/129877176/2c1113bc-b3ea-4bcc-914e-8cdf6408777d)
+![instagram5](https://github.com/RushikeshBhavsar3605/rushikesh-bhavsar-instagram-clone/assets/129877176/e801884e-b4ff-439b-b9d5-c12c046c80b6)
 
 <hr>
 
 #### <p align="center">Instagram Post Functionality with Captions</p>
-![instagram6](https://github.com/RushikeshBhavsar3605/rushikesh-bhavsar-instagram-clone/assets/129877176/a249f03d-8af6-411a-8d5f-81f3eca89583)
+![instagram6](https://github.com/RushikeshBhavsar3605/rushikesh-bhavsar-instagram-clone/assets/129877176/e3f07a49-e6b2-4692-88b2-cb44eba6d07d)
 
 <br>
 <br>
 
-![instagram7](https://github.com/RushikeshBhavsar3605/rushikesh-bhavsar-instagram-clone/assets/129877176/10664ecd-e73d-4ce2-b9dc-78722c37e002)
+![instagram7](https://github.com/RushikeshBhavsar3605/rushikesh-bhavsar-instagram-clone/assets/129877176/dfc61863-c7cb-469b-97b6-0ba69bcfed11)
 
 <hr>
 
 #### <p align="center">Instagram Commment Functionality on each Post</p>
-![instagram8](https://github.com/RushikeshBhavsar3605/rushikesh-bhavsar-instagram-clone/assets/129877176/6bdb51e5-7aba-4d08-85ca-bb04ab9cdec3)
+![instagram8]![home-screen4](https://github.com/RushikeshBhavsar3605/rushikesh-bhavsar-instagram-clone/assets/129877176/64ec54f2-5484-4f36-bfcd-f82c14f369f7)
 
 <hr>
 
